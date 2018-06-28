@@ -1,5 +1,5 @@
 {
-  "name": "expressjs",
+  "name": "expressjs2",
   "version": "1.0.0",
   "description": "Files for my Building a Website with Node & ExpressJS course on Lynda.com",
   "main": "app/app.js",
@@ -14,5 +14,13 @@
     "express": "^4.14.0",
     "reload": "^1.0.0",
     "socket.io": "^1.4.8"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rasm93/expressjs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rasm93/expressjs/issues"
+  },
+  "homepage": "https://github.com/rasm93/expressjs#readme"
 }
